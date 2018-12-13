@@ -1,0 +1,272 @@
+[
+    [
+        "/Users/rklaassen/LWCTest/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694102842,
+            "changeTime": 1544694102842,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694102842,
+            "changeTime": 1544694102842,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544694866964,
+            "changeTime": 1544694866964,
+            "contentHash": "093d4b8c2d3e40d9f213a48eaf6b419f6bdeedc1"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1544694102842,
+            "changeTime": 1544694102842,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544694140033,
+            "changeTime": 1544694140033,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest",
+        {
+            "state": "n",
+            "sourcePath": "/Users/rklaassen/LWCTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1544694577274,
+            "changeTime": 1544694577274,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1544694866947,
+            "changeTime": 1544694866947,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account/fields/Kleine_test__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account/fields/Kleine_test__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1544694866952,
+            "changeTime": 1544694866952,
+            "contentHash": "022264b4312e86dc06c3f71fd0a2f13cbc153379"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1544694866957,
+            "changeTime": 1544694866957,
+            "contentHash": "5f3e2e484a2b563facae9343bf0c29d5426fbcba"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1544694866961,
+            "changeTime": 1544694866961,
+            "contentHash": "9b2f87879a27c90639347f515d2b22d8e17fd48a"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4603,
+            "modifiedTime": 1544694866964,
+            "changeTime": 1544694866964,
+            "contentHash": "4cc2cad28f9350b8c603375dba4e2f630bc6b3dd"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4716,
+            "modifiedTime": 1544694866967,
+            "changeTime": 1544694866967,
+            "contentHash": "da2346eac9e271af66aa84369842ba20a3f74ddd"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4941,
+            "modifiedTime": 1544694866970,
+            "changeTime": 1544694866970,
+            "contentHash": "27bee1c12734c36e8591e992e1f4ab568da15c34"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18843,
+            "modifiedTime": 1544694866979,
+            "changeTime": 1544694866979,
+            "contentHash": "28f76844378d41a1e289ae613a912b48e95a3d37"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694866947,
+            "changeTime": 1544694866947,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694866952,
+            "changeTime": 1544694866952,
+            "contentHash": "6f6d180f73c494834031ec0b14a6831114d79ca4"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694866952,
+            "changeTime": 1544694866952,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544694866952,
+            "changeTime": 1544694866952,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544694866961,
+            "changeTime": 1544694866961,
+            "contentHash": "d812af1bf75f0b0624a7808d514371135e79c087"
+        }
+    ],
+    [
+        "/Users/rklaassen/LWCTest/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rklaassen/LWCTest/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544694866979,
+            "changeTime": 1544694866979,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
